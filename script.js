@@ -33,7 +33,7 @@ function addMainItems() {
 function addSideItems() {
     foodGrid = document.getElementById("sides");
 
-            addItem("Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
+            addItem("Generic Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
             addItem("Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
 }
 
@@ -46,8 +46,8 @@ function addDessertItems() {
 function addDrinkItems() {
     foodGrid = document.getElementById("drinks");
 
-    addItem("Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
-    addItem("Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
+    addItem("Generic Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
+    addItem("Generic Item", "imgs/small/rodbede-cabanossi-sm.jpg", "Item", "Item Item Item Item Item Item Item Item Item Item Item Item Item Item ", 0, true, 0, true);
 
 }
 
